@@ -14,4 +14,4 @@ pom.xml.asc
 .idea/
 clj-webserver.iml
 
-./server-files
+/server-files
