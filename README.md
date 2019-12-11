@@ -1,14 +1,10 @@
 # clj-webserver
-
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+(WORK IN PROGRESS)
+A simple HTTP server written in Clojure and uses the Java.net module.
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 Sunil KS
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
